@@ -1,7 +1,7 @@
 remote_theme : johno/pixyll
 
 # Site settings
-title:       Pixyll
+title:       검둥개의 놀이터
 email:       your_email@example.com
 author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
@@ -99,7 +99,7 @@ text:
     minute_read:    'minute read'
     related_posts:  'Related Posts'
   index:
-    coming_soon: 'Coming soon...'
+    main: 'Blackdog's dev blog'
   contact:
     email:    'Email Address'
     content:  'What would you like to say?'
